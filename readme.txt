@@ -34,7 +34,7 @@ Platform used:
 6.	XML
 
 
-For Demo's and know how to use please visit our portal : http://www.akhaura.org/postal
+For Demo's and know how to use please visit our portal : http://5.9.23.36/~akhaurai/code_finder/ | http://www.akhaura.info/project/code_finder/
 
 
 If you like our script, please donate a piece of bread to any poor near you.
